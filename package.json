@@ -1,0 +1,11 @@
+{
+  "name": "walker",
+  "version": "2.2.0",
+  "description":"",
+  "main": "walker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travis Webb <me@traviswebb.com>",
+  "license": "MPL"
+}
